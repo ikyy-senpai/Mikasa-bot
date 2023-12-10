@@ -68,7 +68,7 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6283109335790','6283109335790']
+global.owner = ['6283109335790','6283109335790','6283109335790']
 global.premium = ['6283109335790']
 global.ownernomer = '6283109335790'
 global.ownername = 'Ikyy'
