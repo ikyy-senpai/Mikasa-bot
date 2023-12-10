@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Chika-Md" width="100"/>
+<img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Mikasa-Bot" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="CHIKA MULTI DEVICE" src="https://img.shields.io/badge/CHIKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MIKASA MULTI DEVICE" src="https://img.shields.io/badge/MIKASA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/IkyyArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/riychdwayne"><img title="Recode" src="https://img.shields.io/badge/Recode-Riy-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
